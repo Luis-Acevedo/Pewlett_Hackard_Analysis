@@ -9,7 +9,7 @@ Much like before a tsunami hits there are usually signs. In the modern age there
 # Understanding Current Data
 ## Analyzing Crucial Week Points
 
-![EmployeeDB](Skill Drills and Classwork/Queries/EmployeeDB.png)
+![EmployeeDB](EmployeeDB.png)
 
 - The above ERD shows the different tables and their relations. To get information like who is retiring and from where you need to join multiple tables. 
 
